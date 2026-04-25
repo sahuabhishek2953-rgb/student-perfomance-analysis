@@ -11,7 +11,7 @@ from src.analysis import (
 
 def main():
     # Define dataset path
-    dataset_path = 'data/student_dataset_v2.csv'
+    dataset_path = 'data/student_dataset.csv'
     
     print("=== STEP 1: DATA LOADING AND PREPROCESSING ===")
     df = preprocess_pipeline(dataset_path)

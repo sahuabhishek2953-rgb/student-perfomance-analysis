@@ -12,9 +12,8 @@ This project aims to analyze student performance by examining the relationship b
 ```
 student-performance-analysis/
 ├── data/
-│   └── student_dataset_v2.csv
+│   └── student_dataset.csv
 ├── src/
-│   ├── __init__.py
 │   ├── preprocess.py
 │   └── analysis.py
 ├── main.py
